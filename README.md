@@ -39,6 +39,15 @@ TravelScape is a web-based travel management platform designed to simplify the t
 
 **Website Preview:**
 
+<img src="template/img1.png">
+<img src="template/img2.png">
+<img src="template/img3.png">
+<img src="template/img4.png">
+<img src="template/img5.png">
+<img src="template/img6.png">
+<img src="template/img7.png">
+
+
 **Contributions:**
 Contributions to TravelScape are welcome! Whether it's code improvements, bug fixes, or new features, feel free to fork the repository and submit pull requests.
 
